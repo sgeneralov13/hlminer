@@ -25,3 +25,5 @@ sudo apt install build-essential libusb-1.0-0 libusb-1.0-0-dev
 # install/compile all needed node packages
 GYP_DEFINES="use_udev=0 use_system_libusb=true" npm install
 ```
+
+My temperature / fan table is correct for me. 
